@@ -1,0 +1,161 @@
+h{
+  font-family: 'Lora', serif;
+
+}
+p{
+  font-family: 'Alegreya', serif;
+  font-size: 1.1rem;
+
+}
+
+.fa-linkedin{
+
+color:  blue;
+}
+
+.middle{
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin-top: 0;
+    margin-bottom: .6rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 94%;
+    max-width: 1140px;
+}
+
+.left_box1{
+    width:50%;
+    float:left;
+
+}
+
+.box {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 3.6rem;
+    position: relative;
+
+}
+
+.second-box {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 3.6rem;
+    position: relative;
+    height: 400px;
+
+}
+.section-intro2 {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 3.6rem;
+    position: relative;
+
+}
+
+.section-intro2 p {
+
+    text-align: left;
+}
+.rr{
+width: 700%;
+background-color: lightgrey;
+padding: 50px;
+margin: 20px;
+}
+
+.intro-info {
+    margin-top: 4.2rem;
+    margin-right: -30px;
+    margin-left: -30px;
+
+}
+.intro-info .lead {
+    padding-left: 13rem;
+}
+.box-concen {
+
+  text-align: center;
+}
+footer {
+    float: right;
+}
+.box h1 {
+    font-family: "poppins-semibold", serif;
+    font-size: 1.6rem;
+
+    color:#313131;
+    line-height: 1.25;
+    margin-bottom: 1.2rem;
+}
+.box h2 {
+  color:#ad33ff;
+  font-size: 1.6rem;
+  line-height: 1.875;
+  margin-bottom: 0.3rem;
+  letter-spacing: .4rem;
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+
+}
+.box h3 {
+  color:   #ad33ff;
+  font-size: 1.6rem;
+  line-height: 1.875;
+  margin-bottom: 0.3rem;
+  letter-spacing: .4rem;
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+
+}
+.box h4 {
+  color:   #ad33ff;
+  font-size: 1.6rem;
+  line-height: 1.875;
+  margin-bottom: 0.3rem;
+  letter-spacing: .4rem;
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+
+}
+.left_box1 h3 {
+    color:   #ad33ff;
+    font-size: 1.6rem;
+    line-height: 1.875;
+    margin-bottom: 0.3rem;
+    letter-spacing: .4rem;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+
+}
+.left_box1 h4 {
+    color:  #ad33ff;
+    font-size: 1.6rem;
+    line-height: 1.875;
+    margin-bottom: 0.3rem;
+    letter-spacing: .4rem;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+
+}
+
+.div-box {
+  width: 70px;
+  height: 50px;
+  background: #cc005f;
+  transition-property: width;
+  transition-duration: 0.6s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+}
+
+.div-box:hover {
+  width: 300px;
+}
