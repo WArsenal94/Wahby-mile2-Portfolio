@@ -154,3 +154,15 @@ footer {
 .div-box:hover {
   width: 300px;
 }
+.hidden{
+  position: relative;
+  left: -10000px;
+  top:auto;
+}
+.hidden:focus{
+  left: 0;
+}
+nav a{
+  margin: 0.25rem;
+  padding: 0.25rem;
+}
